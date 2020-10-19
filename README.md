@@ -11,7 +11,7 @@ step1: input"touch createfolders.sh" to create a shell script, input "vim create
 
 step2: the code of my bash is like this:
 #!/bin/sh
-For I in `seq 1 100`;do
+For I in ``seq 1 100``;do
 	mkdir DDM$i
 	cd ./DDM$i
 	dcho “nanoseconds since 1970-01-01 00:00:00 UTC:
