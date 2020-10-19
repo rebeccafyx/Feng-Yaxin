@@ -23,7 +23,7 @@ step3: input"ESC+:wq!" to exit
 
 step4: input "ls" of "tree" to check the folders and documents
 
-step5: input "cd DDM1" to change the folder location, and input "cat tim_till_now.txt" to cheak the content in the .txt document.
+step5: input "cd DDM1" to change the location, and input "cat tim_till_now.txt" to cheak the content in the .txt document.
 
 Question (3):
 import the .xml files to python, and use regular expression to deal with the strings.
